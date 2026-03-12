@@ -1,0 +1,13 @@
+{
+    "name": "onexfly-performance",
+    "version": "1.0.0",
+    "description": "Включение/отключение performance режима для OneXFly F1 Pro",
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {},
+    "decky": {
+        "category": "system",
+        "tags": ["onexfly", "performance", "system"],
+        "version": "1.0.0"
+    }
+}
