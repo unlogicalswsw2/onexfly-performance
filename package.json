@@ -1,13 +1,14 @@
 {
     "name": "onexfly-performance",
     "version": "1.0.0",
-    "description": "Включение/отключение performance режима для OneXFly F1 Pro",
+    "description": "OneXFly F1 Pro Performance Toggle",
     "author": "Your Name",
     "license": "MIT",
-    "dependencies": {},
-    "decky": {
+    "type": "decky-plugin",
+    "decky-plugin": {
         "category": "system",
-        "tags": ["onexfly", "performance", "system"],
-        "version": "1.0.0"
+        "entry": "main.py",
+        "name": "OneXFly Performance",
+        "tags": ["performance", "onexfly", "system"]
     }
 }
